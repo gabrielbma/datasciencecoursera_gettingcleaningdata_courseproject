@@ -1,13 +1,13 @@
-tidydataset1.txt
+tidydataset1.txt File:
   id
     row number
   
-  Mean
+  Mean -
     The mean of each measurement.
   
-  StandardDeviation
+  StandardDeviation -
     The standard deviation of each measurement.
     
-  ActivityName
+  ActivityName -
     The activity name of each measumement.
     
