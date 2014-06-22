@@ -5,7 +5,7 @@ This project is responsible for cleaning the data set from:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-You should first download the following required data set and extract it in the same folder where run_analysis.R is placed.
+You should first download the following required data set and extract it into the same folder where run_analysis.R is placed.
 
 So, to run the run_analysis.R, you should:
 
