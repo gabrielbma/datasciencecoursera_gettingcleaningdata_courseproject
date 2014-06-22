@@ -1,6 +1,6 @@
 tidydataset1.txt File:
 
-  id
+  id -
     row number
   
   Mean -
