@@ -1,6 +1,3 @@
-datasciencecoursera_gettingcleaningdata_courseproject
-=====================================================
-
 This project is responsible for cleaning the data set from: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
