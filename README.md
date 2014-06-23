@@ -43,5 +43,5 @@ So, to run the run_analysis.R, you should:
  
  4 - write the result to the tidyDataset2.txt
  
- A copy of both as available in this folder to future examinations.
+ A copy of both files are available in this folder to future examinations.
  
