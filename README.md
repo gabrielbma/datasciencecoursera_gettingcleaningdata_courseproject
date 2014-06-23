@@ -1,4 +1,4 @@
-This project is responsible for cleaning the and performaing some analysis on the data set from: 
+This project is responsible for cleaning and performing some analysis on the data set from: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
