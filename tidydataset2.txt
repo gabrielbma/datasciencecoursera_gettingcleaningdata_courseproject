@@ -1,4 +1,4 @@
-"ActivityName";"Subject";"temp.Mean";"temp.StandardDeviation"
+"ActivityName";"Subject";"stats.Mean";"stats.StandardDeviation"
 "WALKING";"10";-0.3270868; 0.4595261
 "WALKING_UPSTAIRS";"10";-0.3456526; 0.4633323
 "WALKING_DOWNSTAIRS";"10";-0.2631621; 0.4643776
