@@ -20,9 +20,9 @@ tidydataset2.txt file:
   Subject - 
     Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-  Mean - 
+  stats.Mean - 
     Each row contains the mean for each grouped activity and subject.
     
-  StandardDeviation -
+  stats.StandardDeviation -
     Each row contains the standanrd deviation for each grouped activity and subject.
   
