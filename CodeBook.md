@@ -1,14 +1,28 @@
 tidydataset1.txt File:
 
   id -
-    row number
-  
-  Mean -
-    The mean of each measurement.
-  
+    row number. Its range is from 1 to the max number of row determined by the script.
+
+  Mean - 
+    Each row contains the mean for each grouped activity and subject.
+    
   StandardDeviation -
-    The standard deviation of each measurement.
-    
+    Each row contains the standanrd deviation for each grouped activity and subject.
+
   ActivityName -
-    The activity name of each measumement.
+    Each row identifies the activity performed by subjects. Its range is WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
+
+tidydataset2.txt file:
+
+  ActivityName - 
+    Each row identifies the activity performed by subjects. Its ranges are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
     
+  Subject - 
+    Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
+  Mean - 
+    Each row contains the mean for each grouped activity and subject.
+    
+  StandardDeviation -
+    Each row contains the standanrd deviation for each grouped activity and subject.
+  
