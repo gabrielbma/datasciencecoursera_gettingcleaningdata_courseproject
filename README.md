@@ -33,7 +33,7 @@ So, to run the run_analysis.R, you should:
  
  In order to clean and compute the average and standard devitation for each activity and subject, the following lines describes briefly the steps performed by the script:
  
- 0 - Perform the same steps below and also;
+ 0 - Perform the same steps above and also;
  
  1 - read the files test/subject_test.txt and train/subject_train.txt to a data.frame and combine them to a data.frame;
  
