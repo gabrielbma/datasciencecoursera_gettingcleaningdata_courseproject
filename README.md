@@ -15,7 +15,7 @@ So, to run the run_analysis.R, you should:
  
  4 - As a result, you should see two files containing the processing result. The first one called tidydataset1.txt contains only the measurements on the mean and standard deviation for each measurement. The second one called tidydataset2.txt contains the average of each variable for each activity and each subject.
  
- To clean and compute the average and standard deviation of the tidydataset1.txt, the following steps are performend by the script:
+ To clean and compute the average and standard deviation of the tidydataset1.txt, the following lines describes briefly the steps performed by the script:
  
  1 - read the files test/X_test.txt and train/X_test.txt to a data frame and combine them to a new data.frame;
  
@@ -31,7 +31,7 @@ So, to run the run_analysis.R, you should:
  
  7 - write the result to the tidyDataset1.txt
  
- In order to clean and compute the average and standard devitation for each activity and subject, the following steps are performed by the script:
+ In order to clean and compute the average and standard devitation for each activity and subject, the following lines describes briefly the steps performed by the script:
  
  0 - Perform the same steps below and also;
  
