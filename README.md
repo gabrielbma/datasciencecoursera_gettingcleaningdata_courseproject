@@ -45,4 +45,4 @@ So, to run the run_analysis.R, you should:
  
  A copy of both files are available in this folder to future examinations.
  
- You can have more information about the both file by seeing the CodeBook.md's content file.
+ You can have more information about the data files by seeing the CodeBook.md's content file.
